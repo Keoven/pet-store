@@ -1,0 +1,2 @@
+class InvalidSpecies(Exception):
+    pass

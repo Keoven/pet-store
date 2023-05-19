@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+ujson
+SQLAlchemy
+alembic
+python-ulid
+flake8

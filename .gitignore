@@ -1,3 +1,12 @@
+# Devenv
+.devenv*
+devenv.local.nix
+
+# Artifacts
+.vscode
+pet_store.db
+pet_store_test.db
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
